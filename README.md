@@ -1,4 +1,5 @@
 # Human-Activity-Recognition
+Link to dataset :  https://dphi-live.s3.eu-west-1.amazonaws.com/dataset/Human+Action+Recognition-20220526T101201Z-001.zip
 1. Loading Dataset and CSV Files:
 Paths to the training and testing images are specified.
 The CSV files that contain the labels (Training_set.csv, Testing_set.csv) are read using pandas.
